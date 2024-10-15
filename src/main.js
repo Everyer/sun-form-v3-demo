@@ -11,9 +11,6 @@ import sunFormV3 from 'sun-form-v3';
 import VxeUITable from 'vxe-table'
 
 import 'vxe-table/lib/style.css'
-
-import XEUtils from 'xe-utils'
-
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 const app = createApp(App)
 for (const [key, component] of Object.entries(ElementPlusIconsVue)) {

@@ -18,7 +18,7 @@
     "nprogress": "^0.2.0",
     "qs": "^6.12.1",
     "sass": "^1.77.6",
-    "sun-form-v3": "1.0.121",
+    "sun-form-v3": "1.0.123",
     "terser": "^5.31.1",
     "vite-plugin-compression": "^0.5.1",
     "vue": "^3.4.21",

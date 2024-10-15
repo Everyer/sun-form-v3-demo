@@ -1,21 +1,13 @@
 {
-  root: '/Volumes/工作/testVue3',
+  root: '/Volumes/工作/sun-form-v3-demo',
   registry: 'https://registry.npmmirror.com',
-  pkgs: [
-    {
-      name: 'monaco-edito',
-      version: '0.49.0',
-      type: 'version',
-      alias: undefined,
-      arg: [Result]
-    }
-  ],
+  pkgs: [],
   production: false,
   cacheStrict: false,
   cacheDir: '/Users/sunyan/.npminstall_tarball',
   env: {
     npm_config_registry: 'https://registry.npmmirror.com',
-    npm_config_argv: '{"remain":[],"cooked":["--fix-bug-versions","--china","--userconfig=/Users/sunyan/.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com","monaco-edito@0.49.0"],"original":["--fix-bug-versions","--china","--userconfig=/Users/sunyan/.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com","monaco-edito@0.49.0"]}',
+    npm_config_argv: '{"remain":[],"cooked":["--fix-bug-versions","--china","--userconfig=/Users/sunyan/.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com"],"original":["--fix-bug-versions","--china","--userconfig=/Users/sunyan/.cnpmrc","--disturl=https://cdn.npmmirror.com/binaries/node","--registry=https://registry.npmmirror.com"]}',
     npm_config_user_agent: 'npminstall/7.12.0 npm/? node/v21.6.2 darwin arm64',
     npm_config_cache: '/Users/sunyan/.npminstall_tarball',
     NODE: '/Users/sunyan/.nvm/versions/node/v21.6.2/bin/node',
@@ -50,8 +42,8 @@
     npm_config_sharp_binary_host: 'https://cdn.npmmirror.com/binaries/sharp',
     npm_config_sharp_libvips_binary_host: 'https://cdn.npmmirror.com/binaries/sharp-libvips',
     npm_config_robotjs_binary_host: 'https://cdn.npmmirror.com/binaries/robotjs',
-    npm_rootpath: '/Volumes/工作/testVue3',
-    INIT_CWD: '/Volumes/工作/testVue3'
+    npm_rootpath: '/Volumes/工作/sun-form-v3-demo',
+    INIT_CWD: '/Volumes/工作/sun-form-v3-demo'
   },
   binaryMirrors: {
     ENVS: {
@@ -187,7 +179,7 @@
   disableFallbackStore: false,
   workspacesMap: Map(0) {},
   enableWorkspace: false,
-  workspaceRoot: '/Volumes/工作/testVue3',
+  workspaceRoot: '/Volumes/工作/sun-form-v3-demo',
   isWorkspaceRoot: true,
   isWorkspacePackage: false,
   offline: false,
